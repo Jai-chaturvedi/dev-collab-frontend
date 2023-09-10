@@ -1,6 +1,6 @@
 # Note : 
  This repository only provides the code for the frontend of the application that is build using React.js and hence do not have backend source code.
- To find the backend code go to the repository ### `dev-collab-backend`.
+ To find the backend code go to the repository `dev-collab-backend`.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
